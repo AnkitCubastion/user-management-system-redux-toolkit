@@ -1,0 +1,124 @@
+{
+  "user": [
+    {
+      "id": "5c05",
+      "role": "admin",
+      "fullName": "Ankit",
+      "email": "ankit@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "bio": "Mechanical Engineer",
+      "interests": "React",
+      "department": "",
+      "empID": "00001"
+    },
+    {
+      "id": "4cd7",
+      "role": "editor",
+      "fullName": "Anku",
+      "email": "anku@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "bio": "Mechanical Engineer",
+      "interests": "C, C++",
+      "department": "HR",
+      "empID": ""
+    },
+    {
+      "id": "a34b",
+      "role": "user",
+      "fullName": "Sunil",
+      "email": "sunil@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw",
+      "bio": "Civil Eng. IIT KGP",
+      "interests": "JavaScript",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "897d",
+      "role": "user",
+      "fullName": "Ashit",
+      "email": "ashit@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://wallpapers.com/images/hd/cool-profile-picture-87h46gcobjl5e4xu.jpg",
+      "bio": "Metallurgy Engineer",
+      "interests": "Node",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "170a",
+      "role": "user",
+      "fullName": "Vipeen",
+      "email": "vipeen@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Mechanical Engineer",
+      "interests": "Angular",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "c497",
+      "role": "user",
+      "fullName": "Jayesh",
+      "email": "jayesh@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://pics.craiyon.com/2023-07-15/dc2ec5a571974417a5551420a4fb0587.webp",
+      "bio": "Civil Science Engineer",
+      "interests": "React",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "5180",
+      "role": "user",
+      "fullName": "Abhishek",
+      "email": "abhishek@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+      "bio": "Computer Science Engineer",
+      "interests": "Node",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "e1b6",
+      "role": "user",
+      "fullName": "Nitin",
+      "email": "nitin@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-man-wearing-glasses-is-wearing-colorful-background-image_2905240.jpg",
+      "bio": "Computer Science Engineer",
+      "interests": "React",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "f33b",
+      "role": "user",
+      "fullName": "Reshab",
+      "email": "reshab@gmail.com",
+      "password": "12345",
+      "profilePicture": "https://png.pngtree.com/thumb_back/fh260/background/20230516/pngtree-modern-design-image-of-a-man-in-sunglasses-image_2577059.jpg",
+      "bio": "Mec. Eng.",
+      "interests": "React",
+      "department": "",
+      "empID": ""
+    },
+    {
+      "id": "3882",
+      "role": "user",
+      "fullName": "Vikash",
+      "email": "vikash@gmail.com",
+      "password": "Vikash@12345",
+      "profilePicture": "https://wallpapers.com/images/hd/cool-profile-picture-awled9dwo4qq2yv2.jpg",
+      "bio": "Computer Science Engineer",
+      "interests": "Video Games",
+      "department": "",
+      "empID": ""
+    }
+  ]
+}

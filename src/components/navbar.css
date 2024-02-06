@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: right;
+  background: rgb(50, 50, 50);
+  padding: 10px;
+  color: rgb(250, 250, 250);
+}
+
+.navbar a {
+  color: inherit;
+  text-decoration: inherit;
+  padding: 25px;
+}
+
+.navbar p {
+  margin: 0px;
+}
+
+.true-user {
+  color: green;
+}
+
+.false-user {
+  color: red;
+}
+
+.logout-btn-nav {
+  background: red;
+  color: white;
+  border-radius: 5px;
+}
+
+p {
+  padding-right: 50px;
+}

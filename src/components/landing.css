@@ -1,0 +1,6 @@
+.landing-container {
+  background-image: url("../asset/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}

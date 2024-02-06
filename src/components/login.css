@@ -1,0 +1,38 @@
+.login-form {
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(100, 100, 100);
+  border-radius: 2rem;
+  background: rgb(100, 100, 100);
+  box-shadow: 5px 5px 5px 5px rgb(50, 50, 50);
+}
+
+.login-btn {
+  background: rgb(0, 100, 0);
+  color: white;
+  &:hover {
+    background-color: rgb(0, 150, 0);
+  }
+}
+
+.login-subcontainer {
+  padding: 10px;
+}
+
+.signup-btn {
+  background: rgb(0, 100, 0);
+  color: white;
+  &:hover {
+    background-color: rgb(0, 150, 0);
+  }
+}
+
+.signup-subcontainer {
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+}
