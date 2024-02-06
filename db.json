@@ -119,6 +119,18 @@
       "interests": "Video Games",
       "department": "",
       "empID": ""
+    },
+    {
+      "id": "cc84",
+      "role": "",
+      "fullName": "Ankit",
+      "email": "ankitanku3302@gmail.com",
+      "password": "Ankit@12345",
+      "profilePicture": "https://wallpapers.com/images/hd/cool-profile-picture-7aecpj5vptd1a0ib.jpg",
+      "bio": "Mechanical Engineer",
+      "interests": "Coding",
+      "department": "",
+      "empID": ""
     }
   ]
 }
